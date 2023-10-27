@@ -1,4 +1,4 @@
-class RegistroPersona {
+public class RegistroPersona {
     private int cantidadPersonas;
     private Persona[] personas;
 

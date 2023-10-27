@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class RegistroCivil {
+public class RegistroCivil {
     private RegistroPersona registro;
 
 

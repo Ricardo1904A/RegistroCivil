@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Persona {
+public class Persona {
     // Hacemos las tres variables tipo string para que al momento de la digitacion no cree ningun error en el registro
     private String cedula;
     private String nombre;
